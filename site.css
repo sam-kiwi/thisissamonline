@@ -73,7 +73,7 @@ body {
 
 a {
   text-decoration:none;
-  color: hotpink;
+  color: #036012;
 }
 
 a:hover {
@@ -99,3 +99,6 @@ p {
 li {
   line-height: 1.5;
 }
+
+img {-webkit-filter: grayscale(50%); /* Safari 6.0 - 9.0 */
+  filter: grayscale(50%);}
