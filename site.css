@@ -1,6 +1,6 @@
 body {
   min-width:400px;
-  font-family: 'Roboto Mono', monospace;
+  font-family: 'Montserrat', sans-serif;
   background-color: white;
 }
 
@@ -42,4 +42,8 @@ a:hover {
 
 h4 {
   color:grey;
+}
+
+#canopy-goals {
+  list-style-type: circle;
 }
