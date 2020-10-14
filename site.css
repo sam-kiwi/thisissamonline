@@ -15,30 +15,34 @@ body {
   min-width:400px;
 }
 
+
 #main-container-content {
   margin-left:90px;
   margin-right:90px;
 }
 
 
+#pic {
+  position:relative;
+  width:305px;
+  float:right;
+  margin: 0px 0px 10px 10px;
+}
+
+
 
 #cv {
+  margin-left:90px;
   margin-right:90px;
 }
 
 #prod-stack-body {
+  margin-left:90px;
   margin-right:90px;
 }
 
 #main-header {
   margin: 10px 0px 10px 0px;
-}
-
-#pic {
-  position:relative;
-  width:330px;
-  float:right;
-  margin: 0px 0px 10px 10px;
 }
 
 #hello {
